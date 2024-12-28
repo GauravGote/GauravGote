@@ -1,4 +1,4 @@
-## Hi there Gaurav here! 👋
+## Hi there 👋 I'm Gaurav! 👋
 
 <h2 align='left'>About Me 🦦</h2>
 
