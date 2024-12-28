@@ -14,18 +14,13 @@
 
 
 ### CI/CD Tool
-
-
+Git and GitHub
 ### Containerization Tool
-![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-<br />
-
+Docker
 ### Container Management Tool
-
+Kubernetes
 ### Operating System
-
+Operating System
 ### 🌩 Cloud
 ![AWS Cloud](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 --- 
