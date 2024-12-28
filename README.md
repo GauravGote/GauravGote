@@ -30,7 +30,7 @@
 ### Operating System
 
 ### 🌩 Cloud
-https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 --- 
 
 <h2> you can connect with me.😀📫 </h2>
