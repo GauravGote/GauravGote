@@ -4,7 +4,6 @@
 
 <h2 align='left'>About Me 🦦</h2>
 
-<img src="git.png" alt="side Image" align="right" width="300" height="auto" />
 
 * I'm a passionate DevOps Engineer 😎 exploring possibilities.
 * 🎓 - Bechloer Of Enginnering. Woriking in IT 😎
