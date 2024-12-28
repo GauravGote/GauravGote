@@ -13,20 +13,24 @@
 
 <h2 align="Left"> Tech Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
 
-### 🛠 Language
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-<br />
+### Version Control Systems
 
 
-### 🧨 Framework
+### CI/CD Tool
+
+
+### Containerization Tool
 ![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 <br />
 
+### Container Management Tool
+
+### Operating System
+
 ### 🌩 Cloud
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 --- 
 
 <h2> you can connect with me.😀📫 </h2>
