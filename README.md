@@ -1,6 +1,4 @@
-## Hi there 👋
-## Hello 👋, Gaurav here!
-<p align='right'> ~ You may also know me as <strong>Gaurav Gote ! 😊</strong></p>
+## Hi there Gaurav here! 👋
 
 <h2 align='left'>About Me 🦦</h2>
 
