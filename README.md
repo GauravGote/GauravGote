@@ -26,7 +26,7 @@
 <br />
 
 ### 🌩 Cloud
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) />
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 --- 
 
 <h2> you can connect with me.😀📫 </h2>
